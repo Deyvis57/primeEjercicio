@@ -26,6 +26,7 @@ public class PrimeEjercico {
         //proceso de datos
         volumen = Math.pow(lado,  3);
         area=Math.pow(lado,2);
+        System.out.println("El volumen del cubo es: "+area);
     }
     
 }
